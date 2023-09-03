@@ -14,5 +14,3 @@ IMPORTANTE:
 
 - O código está funcionando segundo parâmetros do 
 idioma português por meio da biblioteca <locale.h>
-
-- 
